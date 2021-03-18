@@ -1,1 +1,1 @@
-# user-profile-reactJS
+# user-profile-reactjs
